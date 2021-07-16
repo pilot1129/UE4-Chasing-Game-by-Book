@@ -1,5 +1,6 @@
 # UE4_ChasingGamePrac
-초보자를 위한 언리얼 엔진4 입문[아라카와 다쿠야] 을 보고 제작한 프로젝트 입니다
+초보자를 위한 언리얼 엔진4 입문[아라카와 다쿠야] 을 보고 제작한 프로젝트 입니다   
+Only BluePrint Not SourceCode
 
 실행방법
 * PlayGame.zip을 압축해제
